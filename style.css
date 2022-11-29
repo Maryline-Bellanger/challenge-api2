@@ -1,0 +1,23 @@
+#content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+
+.photos{
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.title{
+  padding: 20px;
+  text-align: center;
+  background-color: darkblue;
+  color: white;
+}
+
+.diapo {
+  padding-bottom: 20px;
+}
